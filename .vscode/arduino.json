@@ -3,5 +3,6 @@
     "board": "arduino:avr:nano",
     "port": "COM6",
     "configuration": "cpu=atmega328old",
-    "output": "build"
+    "output": "build",
+    "programmer": "avrisp"
 }
