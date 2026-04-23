@@ -1,0 +1,7 @@
+{
+    "sketch": "Control_comida_Maya/Control_comida_Maya.ino",
+    "board": "arduino:avr:nano",
+    "port": "COM6",
+    "configuration": "cpu=atmega328old",
+    "output": "build"
+}

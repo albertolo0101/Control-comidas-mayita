@@ -1,0 +1,1324 @@
+[
+  {
+    "added_include_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "Wire.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "RTClib.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "Adafruit_I2CDevice.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "Adafruit_GFX.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "SPI.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "Adafruit_SSD1306.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "EEPROM.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src"
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\sketch\\Control_comida_Maya.ino.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src\\Wire.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Wire\\Wire.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Wire\\Wire.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src\\Wire.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src\\utility\\twi.c",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Wire\\utility\\twi.c.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Wire\\utility\\twi.c.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src\\utility\\twi.c",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_DS1307.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_DS1307.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_DS1307.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_DS1307.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_DS3231.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_DS3231.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_DS3231.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_DS3231.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_Micros.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_Micros.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_Micros.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_Micros.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_Millis.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_Millis.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_Millis.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_Millis.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_PCF8523.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_PCF8523.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_PCF8523.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_PCF8523.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_PCF8563.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_PCF8563.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTC_PCF8563.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTC_PCF8563.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTClib.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTClib.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\RTClib\\RTClib.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src\\RTClib.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_GenericDevice.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_GenericDevice.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_GenericDevice.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_GenericDevice.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\glcdfont.c.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_GFX_Library\\glcdfont.c.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src\\SPI.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\SPI\\SPI.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\SPI\\SPI.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src\\SPI.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306\\Adafruit_SSD1306.cpp",
+      "object_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_SSD1306\\Adafruit_SSD1306.cpp.o",
+      "depfile_path": "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\build\\libraries\\Adafruit_SSD1306\\Adafruit_SSD1306.cpp.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+        "-IC:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+        "-IC:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+        "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306\\Adafruit_SSD1306.cpp",
+        "-o",
+        "nul"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  }
+]

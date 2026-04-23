@@ -1,4 +1,6 @@
-﻿/*
+#include <Arduino.h>
+#line 1 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+/*
  * Control de comidas - Maya
  * Hardware: Arduino Nano, SSD1306 128x64, DS3231, rotary encoder + button, 2 LEDs
  *
@@ -86,6 +88,39 @@ uint8_t editH, editM;
 // 
 //  EEPROM helpers
 // 
+#line 89 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void writeU32(uint8_t addr, uint32_t v);
+#line 93 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+uint32_t readU32(uint8_t addr);
+#line 103 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+int8_t pollEnc();
+#line 129 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+bool pollBtn();
+#line 143 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void p2(uint8_t v);
+#line 145 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+uint8_t mealSlot(const DateTime& t);
+#line 152 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+bool mealDue(const DateTime& t);
+#line 157 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+unsigned long blinkIv(const DateTime& t);
+#line 173 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void drawClock(const DateTime& t);
+#line 188 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void drawDue(const DateTime& t);
+#line 201 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void drawFed(uint32_t sec, const DateTime& t);
+#line 219 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void drawBar();
+#line 232 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void drawMenu(const DateTime& t);
+#line 253 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void drawSetTime(const __FlashStringHelper* lbl, uint8_t h, uint8_t m, bool editH);
+#line 285 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void setup();
+#line 334 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
+void loop();
+#line 89 "C:\\Users\\alber\\Documents\\2026\\proyecto Maya\\proyectogit-comidamaya\\Control-comidas-mayita\\Control_comida_Maya\\Control_comida_Maya.ino"
 void writeU32(uint8_t addr, uint32_t v) {
   for (uint8_t i = 0; i < 4; i++)
     EEPROM.update(addr + i, (v >> (8 * i)) & 0xFF);
@@ -493,6 +528,7 @@ void loop() {
       break;
   }
 }
+
 
 
 
