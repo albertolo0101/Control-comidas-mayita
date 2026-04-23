@@ -1,5 +1,33 @@
 {
   "arduino.useArduinoCli": true,
   "arduino.path": "C:\\Program Files\\Arduino CLI",
-  "arduino.commandPath": "arduino-cli.exe"
+  "arduino.commandPath": "arduino-cli.exe",
+  "files.associations": {
+    "*.ino": "cpp"
+  },
+  "C_Cpp.default.compileCommands": "${workspaceFolder}\\build\\compile_commands.json",
+  "C_Cpp.default.compilerPath": "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin\\avr-g++.exe",
+  "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}",
+    "${workspaceFolder}\\Control_comida_Maya",
+    "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino",
+    "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\variants\\eightanaloginputs",
+    "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\Wire\\src",
+    "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\SPI\\src",
+    "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\libraries\\EEPROM\\src",
+    "C:\\Users\\alber\\Documents\\Arduino\\libraries\\RTClib\\src",
+    "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+    "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+    "C:\\Users\\alber\\Documents\\Arduino\\libraries\\Adafruit_SSD1306"
+  ],
+  "C_Cpp.default.defines": [
+    "ARDUINO=10607",
+    "ARDUINO_AVR_NANO",
+    "ARDUINO_ARCH_AVR",
+    "F_CPU=16000000L"
+  ],
+  "C_Cpp.default.forcedInclude": [
+    "C:\\Users\\alber\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.7\\cores\\arduino\\Arduino.h"
+  ]
 }
